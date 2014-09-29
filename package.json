@@ -1,0 +1,11 @@
+{
+  "name": "fauxbespin-theme-syntax",
+  "theme": "syntax",
+  "version": "0.1.50",
+  "description": "A Bespin inspired theme, using a vibrant earth tone pallette.",
+  "repository": "https://github.com/MichaelTheDevel/fauxbespin-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
